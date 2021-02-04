@@ -62,6 +62,3 @@ async def on_message(ctx, URL=None):
 
 
 bot.run(TOKEN)
-
-
-test
